@@ -17,7 +17,7 @@
     "LoadPriority": 0,
     "Punchline": "Advanced haptic feedback using Intiface",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/digital-pet/EgirlPlugins/main/plugins/AetherSenseRedux/latest.zip",
-    "TestingLinkInstall": "https://raw.githubusercontent.com/digital-pet/EgirlPlugins/main/plugins/AetherSenseRedux/latest.zip",
-    "UpdateLinkInstall": "https://raw.githubusercontent.com/digital-pet/EgirlPlugins/main/plugins/AetherSenseRedux/latest.zip"
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/digital-pet/EgirlPlugins/main/plugins/AetherSenseRedux/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/digital-pet/EgirlPlugins/main/plugins/AetherSenseRedux/latest.zip"
   }
 ]
