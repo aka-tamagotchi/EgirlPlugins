@@ -1,3 +1,7 @@
+# E-Girl Plugins
+Bleeding-edge builds of plugins by digital-pet. Not for production use.
+
+## How to use
 * **Be sure that "Enable in-game features" is on in the launcher settings to access in-game commands and features!**
 * Access Dalamud's settings by typing `/xlsettings` in the chat window and pressing enter.
 * Click on the "Experimental" tab.
