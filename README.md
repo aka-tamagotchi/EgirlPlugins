@@ -1,5 +1,5 @@
 # E-Girl Plugins
-Bleeding-edge builds of plugins by digital-pet. Not for production use.
+Builds of Dalamud plugins by digital-pet.
 
 ## How to use
 * **Be sure that "Enable in-game features" is on in the launcher settings to access in-game commands and features!**
