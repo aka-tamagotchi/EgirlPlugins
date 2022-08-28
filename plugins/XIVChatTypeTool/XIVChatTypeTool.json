@@ -1,0 +1,16 @@
+{
+  "Author": "Tama Gotchi",
+  "Name": "XIVChatTypeTool",
+  "InternalName": "XIVChatTypeTool",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "/chatstat for all your chat stats",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "sample",
+    "plugin",
+    "goats"
+  ],
+  "DalamudApiLevel": 7,
+  "LoadPriority": 0,
+  "Punchline": "Internal dev tools for fun and profit"
+}
