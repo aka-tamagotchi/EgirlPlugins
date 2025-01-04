@@ -9,3 +9,7 @@ Builds of Dalamud plugins by digital-pet.
 * Click the "+" button to add it to the list.
 * Check the "Enabled" box for your new entry.
 * Click "Save and Close" at the bottom.
+
+## Disclaimer 
+
+Keep it in private. Don't be a creep.
